@@ -1,4 +1,4 @@
-<h1>Setup Rentals Data in Cloud SQL<h1>
+<h1>Setup Rentals Data in Cloud SQL</h1>
 Overview
 In this lab, you populate rentals data in Cloud SQL for the rentals recommendation engine to use.
 
